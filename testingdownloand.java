@@ -18,7 +18,7 @@ public class testingdownloand {
 		System.setProperty("webdriver.ie.driver","C:\\Users\\sumit\\Downloads\\IEDriverServer_Win32_3.14.0\\IEDriverServer.exe");
 		WebDriver driver = new InternetExplorerDriver();
 		
-		//driver.get("https://www.seleniumhq.org/download/");
+		//I am removing driver from feature branch
 		
 		
 		//To open URL
