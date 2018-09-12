@@ -12,9 +12,9 @@ import org.openqa.selenium.remote.server.handler.SendKeys;
 
 public class testingdownloand {
 
-	public static void main(String[] args) throws InterruptedException, AWTException, IOException {
+	public static void main(String[] args) throws InterruptedException, AWTException {
 		// TODO Auto-generated method stub
-		
+		Sysout("adding new sysout in feature branch");
 		System.setProperty("webdriver.ie.driver","C:\\Users\\sumit\\Downloads\\IEDriverServer_Win32_3.14.0\\IEDriverServer.exe");
 		WebDriver driver = new InternetExplorerDriver();
 		
